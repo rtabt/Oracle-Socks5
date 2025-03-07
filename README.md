@@ -1,4 +1,4 @@
-# Oracle-Socks5 基于Oracle数据库的Socks5代理
+# Oracle-Socks5代理工具
 
 # 一、环境搭建
 
